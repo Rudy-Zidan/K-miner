@@ -1,0 +1,6 @@
+C:\Users\Rudy\Documents\Visual Studio 2012\Projects\K-Miner\K-Miner\bin\Release\K-Miner.exe.config
+C:\Users\Rudy\Documents\Visual Studio 2012\Projects\K-Miner\K-Miner\bin\Release\K-Miner.exe
+C:\Users\Rudy\Documents\Visual Studio 2012\Projects\K-Miner\K-Miner\bin\Release\K-Miner.pdb
+C:\Users\Rudy\Documents\Visual Studio 2012\Projects\K-Miner\K-Miner\bin\Release\HtmlAgilityPack.dll
+C:\Users\Rudy\Documents\Visual Studio 2012\Projects\K-Miner\K-Miner\obj\Release\K-Miner.exe
+C:\Users\Rudy\Documents\Visual Studio 2012\Projects\K-Miner\K-Miner\obj\Release\K-Miner.pdb
